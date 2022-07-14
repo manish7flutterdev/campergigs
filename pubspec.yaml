@@ -1,0 +1,61 @@
+name: campergigs
+description: A Campergigs project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  get: any
+  http: any
+  google_maps_flutter: ^2.0.4
+  google_sign_in: ^5.0.7
+  flutter_facebook_auth: ^3.5.2
+  jwt_decoder: ^2.0.1
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  assets:
+    - assets/images/1.jpg
+    - assets/images/logo.jpg
+    - assets/images/logo1.png
+    - assets/images/2.jpg
+    - assets/images/3.jpg
+    - assets/images/4.jpg
+    - assets/images/5.jpg
+    - assets/icons/1.jpg
+    - assets/icons/2.jpg
+    - assets/icons/3.jpg
+    - assets/icons/4.jpg
+    - assets/icons/5.jpg
+ 
+  fonts:
+    - family: Chivo
+      fonts:
+        - asset: assets/fonts/Chivo/Chivo-Bold.ttf
+          weight : 700
+        - asset: assets/fonts/Chivo/Chivo-Regular.ttf
+          weight : 400
+        - asset: assets/fonts/Chivo/Chivo-Light.ttf
+          weight : 300

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260344151706",
+    "project_id": "auth-851c0",
+    "storage_bucket": "auth-851c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260344151706:android:aa7c713a47d8502e872923",
+        "android_client_info": {
+          "package_name": "com.example.campergigs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260344151706-sdt7de1b5mplubk0fn8e3pbse63h019j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campergigs",
+            "certificate_hash": "bfb3f7455c6c4b8f66bb32cbd25ea28b7c84292a"
+          }
+        },
+        {
+          "client_id": "260344151706-l950r2t4575v060okt674b7tiu7cdbml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBMqNVmBTbpvkbKByY31RfdQzjRh-6QsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260344151706-l950r2t4575v060okt674b7tiu7cdbml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
